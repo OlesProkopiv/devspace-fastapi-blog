@@ -108,7 +108,7 @@ http://127.0.0.1:8000**
 
 ### 3. Автоматичний скрапінг (Selenium)
 - Написано скрипт `scraper.py`, який повністю симулює дії користувача: автоматично відкриває браузер Chrome, знаходить поля вводу, успішно проходить авторизацію (SPA) та парсить дані (заголовки постів) зі стрічки.
-![Selenium Scraper Output](screenshots/scraper.png)
+![Selenium Scraper Output](screenshots/scaper.png)
 
 ---
 
